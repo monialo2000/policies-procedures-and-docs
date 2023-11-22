@@ -1,3 +1,3 @@
-# Cohort emails
+# Diseño emails de Cohortes 
 
-Emails sent on a weekly basis to cohort members sharing what's happening in a given week. 
+Diseño modelo de Emails a enviar semanalmente a los miembros de cohortes para compartir que estará sucediendo en una semana determinada. 
